@@ -2,3 +2,4 @@ service:
   type: ClusterIP
 image:
   tag: 0.1.0
+  replicaCount: 2
