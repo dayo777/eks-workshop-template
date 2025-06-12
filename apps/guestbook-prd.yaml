@@ -8,7 +8,7 @@ metadata:
 spec:
   project: demo
   source:
-    repoURL: 'https://github.com/<repo>'
+    repoURL: 'https://github.com/dayo777'
     path: guestbook
     targetRevision: HEAD
     helm:
