@@ -6,9 +6,9 @@ metadata:
   annotations:
     kargo.akuity.io/authorized-stage: kargo-guestbook:prd
 spec:
-  project: demo
+  project: default
   source:
-    repoURL: 'https://github.com/dayo777'
+    repoURL: 'https://github.com/dayo777/eks-workshop-template'
     path: guestbook
     targetRevision: HEAD
     helm:
