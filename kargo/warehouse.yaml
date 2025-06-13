@@ -9,6 +9,6 @@ spec:
       branch: main
       commitSelectionStrategy: NewestFromBranch
       discoveryLimit: 20
-      repoURL: https://github.com/<repo>
+      repoURL: https://github.com/dayo777/eks-workshop-template/kargo/warehouse.yaml
       includePaths:
       - base/values.yaml

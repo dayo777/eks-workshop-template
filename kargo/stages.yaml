@@ -14,7 +14,7 @@ spec:
     spec:
       vars:
       - name: gitRepo
-        value: https://github.com/<repo>
+        value: https://github.com/dayo777/eks-workshop-template/kargo/stages.yaml
       steps:
       - uses: git-clone
         config:
